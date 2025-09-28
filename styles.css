@@ -1,0 +1,39 @@
+/* Siga as orientações no arquivo README para concluir o exercício */
+
+/* Exercício 1, 6 */
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: green;
+    color: darkgreen;
+}
+
+/* Exercicío 2 */
+.cabecalho {
+    background-color: #ffff00;
+    text-align: center;
+}
+
+/* Exercício 3 */
+.titulo_cabecalho {
+    color: blue;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+/* Exercício 4 */
+.subtitulo_cabecalho {
+    color: darkgreen;
+}
+
+/* Exercício 5, 7 */
+.conteudo {
+    background-color: blue;
+    color: #ffff00;
+}
+
+/* Desafio */
+.conteudo p {
+    color: #E4005A;
+    font-size: 42px;
+}
